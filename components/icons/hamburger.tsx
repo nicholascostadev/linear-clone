@@ -3,4 +3,4 @@ export const HamburgerIcon = () => (
     <path d="M0 0H18V1H0V0Z" fill="white"></path>
     <path d="M0 10H18V11H0V10Z" fill="white"></path>
   </svg>
-);
+)
